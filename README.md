@@ -15,7 +15,7 @@ The Wurtele Center seeks to understand the Smithie perspective of collaboration.
 - Select “Commit directly to the main branch”
 - Commit changes
 
-### In order to view all the edits made, click here or:
+### In order to view all the edits made:
 - Navigate to the repo’s main branch
 - Under the green code button, click on the circular arrow that says “[#] commits”
 - There should now be a list of “Add files via upload”
